@@ -1,0 +1,75 @@
+.mainBody{
+    background-color: rgb(243, 236, 236);
+    font-size: 15px;
+}
+.BasicOne{
+    margin: auto;
+}
+.Reliable{
+    text-align: center;
+    color: rgb(126, 124, 122);
+    padding-top: 60px;
+    }
+
+.ReliableTwo{
+    text-align: center;
+}
+.ReliableThree{
+    text-align: center;
+    color: rgb(211, 206, 200);
+}
+.BlueButton{
+    width: 250px;
+    height: 12pc;
+    border: 1px solid white;
+   
+    border-radius: 2px;
+ 
+ box-shadow: 3px -1px 0px 3px rgba(69,211,211,1);
+-webkit-box-shadow: 3px -1px 0px 3px rgba(69,211,211,1);
+-moz-box-shadow: 3px -1px 0px 3px rgba(69,211,211,1);
+    position: absolute;
+    left: 13pc;
+    top: 26pc;
+}
+.RedButton{
+    width: 250px;
+    height: 12pc;
+    border: 1px solid rgb(241, 236, 236);
+   
+    border-radius: 2px;
+    box-shadow: 3px -1px 0px 3px rgba(234,83,83,1);
+    -webkit-box-shadow: 3px -1px 0px 3px rgba(234,83,83,1);
+    -moz-box-shadow: 3px -1px 0px 3px rgba(234,83,83,1);
+    position: absolute;
+    left: 30pc;
+    top: 18pc;
+}
+.CyanButton{
+    width: 250px;
+    height: 12pc;
+    border: 1px solid rgb(241, 236, 236);
+   
+    border-radius: 2px;
+    box-shadow: 3px -1px 0px 3px rgba(84,158,242,1);
+    -webkit-box-shadow: 3px -1px 0px 3px rgba(84,158,242,1);
+    -moz-box-shadow: 3px -1px 0px 3px rgba(84,158,242,1);
+    position: absolute;
+    left: 47pc;
+    top: 26pc;
+}
+.OrangeButton{
+    width: 250px;
+    height: 12pc;
+    border: 1px solid rgb(241, 236, 236);
+   
+    border-radius: 2px;
+    box-shadow: 3px -1px 0px 3px rgba(252,175,74,1);
+    -webkit-box-shadow: 3px -1px 0px 3px rgba(252,175,74,1);
+    -moz-box-shadow: 3px -1px 0px 3px rgba(252,175,74,1);
+    position: absolute;
+    left: 30pc;
+    top: 32pc;
+}
+
+
